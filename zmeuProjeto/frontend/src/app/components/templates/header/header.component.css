@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 12%;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    padding: 18px;
+    max-height: 223px;
+}

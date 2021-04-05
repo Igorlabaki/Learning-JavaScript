@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 5000.65
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": 4599.99
+    },
+    {
+      "name": "Mouse",
+      "price": "39.99",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1899.99",
+      "id": 5
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "1.55",
+      "id": 6
+    }
+  ]
+}
